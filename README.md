@@ -38,7 +38,7 @@ Python 3.x · Scrapy · schedule · smtplib · os · time
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USER/euro-monitor
+git clone [https://github.com/YOUR_USER/euro-monitor](https://github.com/Phernando82/monitora_euro.git)
 cd euro-monitor
 pip install -r requirements.txt
 ```
